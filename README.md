@@ -1,1 +1,2 @@
-# jelizondo1578.GitHub.io
+# jelizondo1578.GitHub.io  
+An interesting read amongst the list of books, some with valid links and some not, was [Introduction to Metadata](https://www.getty.edu/publications/intrometadata/setting-the-stage/) (3rd edition) by Murtha Baca. This passage outlines how metadata is quite literally the data about data and how it has played a pivotal role ever since humans have began maintaining record of vast types of data throughout history. It interests me as it sets a strong foundation to this program to which my classmates and I will be dedicating our valuable time and equally as valuable financial resources. It provides a glimpse into the historical evolution of data and the data about data.  
